@@ -18,7 +18,7 @@ You can contact me via email:
 📫 vicjaudom@hotmail.com
 
 Linkedin profile:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/miquel-abella-garcia-b64268217](https://www.linkedin.com/in/v%C3%ADctor-jauregui-dom%C3%ADnguez-2b1893139/?originalSubdomain=es)/)
+<a href="https://www.linkedin.com/in/v%C3%ADctor-jauregui-dom%C3%ADnguez-2b1893139/?originalSubdomain=es" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaperez1994g" height="30" width="40" /></a>
 
 <div align="center">
 
