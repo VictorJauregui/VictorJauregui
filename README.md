@@ -1,4 +1,4 @@
-<h1 styles="display:flex, justify-content: center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola developer, soy Víctor 
+<h1 style="display:flex, justify-content: center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hola developer, soy Víctor 
 </h1>
 ## 🚀 Sobre mi
 Soy desarrollador frontend con especialidad en React. Me considero una persona proactiva y trabajo muy bien en equipo, además de tener otras habilidades blandas que he desarrollado durante mi trayectoria profesional, como la resolución de problemas, la capacidad de adaptación y la comunicación efectiva. Actualmente, estoy estudiando un máster en desarrollo de software en Assembler institute of Technology para seguir ampliando mis conocimientos. Fuera del trabajo, disfruto practicando deporte, escuchando música y viajando, pues me apasiona conocer diferentes culturas y lugares nuevos.
