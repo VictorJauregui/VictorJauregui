@@ -18,14 +18,14 @@ You can contact me via email:
 📫 abellagarciamiquel@gmail.com
 
 Linkedin profile:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquel-abella-garcia-b64268217/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/miquel-abella-garcia-b64268217](https://www.linkedin.com/in/v%C3%ADctor-jauregui-dom%C3%ADnguez-2b1893139/?originalSubdomain=es)/)
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiquelAbella&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorJauregui&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiquelAbella&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorJauregui&show_icons=true&theme=tokyonight)
 
 </div>
